@@ -327,7 +327,8 @@
             "filename": "icons/1_Primary/Autodesk.svg",
             "category": "1. Apps & Sites",
             "issuer": [
-                "Autodesk"
+                "Autodesk",
+                "Autodesk MFA"
             ]
         },
         {
@@ -1121,7 +1122,7 @@
                 "ComputerBase"
             ]
         },
-        { 
+        {
             "filename": "icons/1_Primary/ConnectWise.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -1683,7 +1684,7 @@
                 "Fakturoid"
             ]
         },
-        { 
+        {
             "filename": "icons/1_Primary/FanDuel.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -1902,7 +1903,7 @@
                 "GBAtemp"
             ]
         },
-        { 
+        {
             "filename": "icons/1_Primary/GMX.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -2120,7 +2121,7 @@
             "issuer": [
                 "Guideline"
             ]
-        }, 
+        },
         {
             "filename": "icons/1_Primary/Guilded.svg",
             "category": "1. Apps & Sites",
@@ -2135,7 +2136,7 @@
                 "Guru.com"
             ]
         },
-        {   
+        {
             "filename": "icons/1_Primary/Gusto.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -2872,7 +2873,7 @@
                 "LimeSurvey"
             ]
         },
-        { 
+        {
             "filename": "icons/1_Primary/Line 6.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -4026,7 +4027,8 @@
             "filename": "icons/1_Primary/Privacy.svg",
             "category": "1. Apps & Sites",
             "issuer": [
-                "Privacy"
+                "Privacy",
+                "Privacy.com"
             ]
         },
         {
@@ -4188,7 +4190,7 @@
                 "RU-CENTER"
             ]
         },
-        { 
+        {
             "filename": "icons/1_Primary/Rackspace.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -4842,7 +4844,7 @@
                 "Storj"
             ]
         },
-        { 
+        {
             "filename": "icons/1_Primary/Stripchat.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -5056,7 +5058,7 @@
                 "TikTok"
             ]
         },
-        { 
+        {
             "filename": "icons/1_Primary/Tildes.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -5168,7 +5170,7 @@
                 "TotalEnergies"
             ]
         },
-        {  
+        {
             "filename": "icons/1_Primary/Toyohashi University of Technology.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -5449,7 +5451,7 @@
                 "VDSina"
             ]
         },
-        { 
+        {
             "filename": "icons/1_Primary/VFUN.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -5534,7 +5536,7 @@
                 "Vivaldi"
             ]
         },
-        { 
+        {
             "filename": "icons/1_Primary/Vultr.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -5754,7 +5756,7 @@
                 "Wykop.pl"
             ]
         },
-        { 
+        {
             "filename": "icons/1_Primary/Wyze.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -5824,7 +5826,7 @@
                 "Yandex"
             ]
         },
-        {  
+        {
             "filename": "icons/1_Primary/YoBit.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -5849,7 +5851,8 @@
             "filename": "icons/1_Primary/You Need A Budget.svg",
             "category": "1. Apps & Sites",
             "issuer": [
-                "You Need A Budget"
+                "You Need A Budget",
+                "YNAB"
             ]
         },
         {
@@ -6210,7 +6213,7 @@
                 "vorsorgestiftung vsao"
             ]
         },
-        { 
+        {
             "filename": "icons/1_Primary/woelkli.svg",
             "category": "1. Apps & Sites",
             "issuer": [
@@ -6750,7 +6753,8 @@
             "filename": "icons/2_Variations/Privacy bg.var.svg",
             "category": "2. Variations & Alts",
             "issuer": [
-                "Privacy"
+                "Privacy",
+                "Privacy.com"
             ]
         },
         {
@@ -7036,11 +7040,12 @@
                 "Yandex"
             ]
         },
-        { 
+        {
             "filename": "icons/2_Variations/You Need A Budget alt.svg",
             "category": "2. Variations & Alts",
             "issuer": [
-                "You Need A Budget"
+                "You Need A Budget",
+                "YNAB"
             ]
         },
         {
@@ -7432,7 +7437,7 @@
             "filename": "icons/4_Outdated/1Password v1.svg",
             "category": "4. Outdated",
             "issuer": [
-                "1Password" 
+                "1Password"
             ]
         },
         {
@@ -7741,7 +7746,7 @@
             "filename": "icons/4_Outdated/Linode.svg",
             "category": "4. Outdated",
             "issuer": [
-                "Akamai Connected Cloud", 
+                "Akamai Connected Cloud",
                 "Linode"
             ]
         },
@@ -7882,7 +7887,8 @@
             "filename": "icons/4_Outdated/Privacy v1.svg",
             "category": "4. Outdated",
             "issuer": [
-                "Privacy"
+                "Privacy",
+                "Privacy.com"
             ]
         },
         {
